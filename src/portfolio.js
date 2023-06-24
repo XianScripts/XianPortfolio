@@ -1,8 +1,10 @@
-/* Change this file to get your personal Portfolio */
+/* Change this file to get your personal Port
+
+ */
 
 // To change portfolio colors globally go to the  _globalColor.scss file
 
-import emoji from "react-easy-emoji";
+// import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
 
 // Splash Screen
@@ -37,7 +39,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/christianfontanez/",
   gmail: "christfontanez@gmail.com",
   gitlab: "https://gitlab.com/xiannomics",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  stackoverflow: "https://stackoverflow.com/users/22126337/xian",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
